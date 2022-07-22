@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Erick Silva
-- 🔭 Hoje trabalho com Backend
+- 🔭 Hoje trabalho com Backend.
 - 🌱 Estudando Python.
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.
 
 
 <div align="center">
