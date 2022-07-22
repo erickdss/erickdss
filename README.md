@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Erick Silva
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Javascript.
+- 🔭 Hoje trabalho com Backend
+- 🌱 Estudando Python.
 - 😄 Pronouns: ele/dele
 
 
